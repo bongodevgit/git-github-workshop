@@ -11,4 +11,3 @@ def make_sum():
 
 
 make_sum()
-
